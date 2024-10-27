@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Visualization Dashboard",
+    "desc": "Developed C-Metrics, a real-time visualization dashboard for tracking machine-specific energy usage and carbon emissions, optimizing consumption by 20-30%.",
+    "image": "cmetrics",
+    "category": "Frontend Development",
+    "links": {
+      "view": " ",
+      "code": "https://github.com/Hemanath2001/C-Metrics_-Energy-Monitoring-System-to-Notify-Carbon-Footprint-.git"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A personal portfolio website showcasing my skills, projects, and experience, designed with a modern and responsive layout for an engaging user experience.",
+    "image": "portfolio",
+    "category": "Frontend Development",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Resume Generator",
+    "desc": "An intuitive web app for creating professional resumes with customizable templates and automated formatting.",
+    "image": "resume_generator",
+    "category": "Frontend Development",
+    "links": {
+      "view": "https://www.linkedin.com/posts/hemanath-m-d-3b93421aa_codingrajatechnologies-internship-taskaccomplished-activity-7154477763226226688-KtfH?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Hemanath2001/Coding-Raja-Technologies-Internship-Task-1.git"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "A simple web-based music player app that lets users play, pause, and skip tracks with a sleek and user-friendly interface.",
+    "image": "music_player",
+    "category": "Frontend Development",
+    "links": {
+      "view": "https://www.linkedin.com/posts/hemanath-m-d-3b93421aa_codingrajatechnologies-internship-taskcompleted-activity-7154488740021764096-fSAC?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Hemanath2001/Coding-Raja-Technologies-Internship-Task-2.git"
+    }
+  },
+  {
+    "name": "UI/UX - Mobile App Signup Flow",
+    "desc": "A seamless mobile app sign-up flow designed for a smooth user onboarding experience with intuitive steps and a clean interface.",
+    "image": "signup_app",
+    "category": "UI/UX Designing",
+    "links": {
+      "view": "https://www.linkedin.com/posts/hemanath-m-d-3b93421aa_uiuxdesign-internship-codsoft-activity-7224096114805764096-e_H_?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Hemanath2001/codsoft_task-1_hemanath.git"
+    }
+  },
+  {
+    "name": "UI/UX - Restaurant Menu",
+    "desc": "A visually appealing restaurant menu UI/UX design that offers an interactive and easy-to-navigate layout for browsing dishes and making orders.",
+    "image": "restaurant_menu",
+    "category": "UI/UX Designing",
+    "links": {
+      "view": "https://www.linkedin.com/posts/hemanath-m-d-3b93421aa_uiuxdesign-internship-codsoft-activity-7224101065896472576-gCQi?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Hemanath2001/codsoft_task-3_hemanath.git"
+    }
+  },
+  {
+    "name": "UI/UX - E-Commerce Website",
+    "desc": "A user-friendly e-commerce UI/UX design for groceries and vegetables, featuring intuitive navigation and a streamlined checkout process",
+    "image": "e-commerce",
+    "category": "UI/UX Designing",
+    "links": {
+      "view": "https://www.linkedin.com/posts/hemanath-m-d-3b93421aa_uiuxdesign-internship-codsoft-activity-7224104140753289217-o3LQ?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Hemanath2001/codsoft_task-4_hemanath.git"
+    }
+  }
+  
+]
